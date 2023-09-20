@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @ribeiro/eslint-config
+npm i -D eslint @ribeiro-ui/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@ribeiro/eslint-config/next", 
+    "@ribeiro-ui/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @ribeiro/eslint-config
+npm i -D eslint @ribeiro-ui/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@ribeiro/eslint-config/react"
+  "extends": "@ribeiro-ui/eslint-config/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @ribeiro/eslint-config
+npm i -D eslint @ribeiro-ui/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@ribeiro/eslint-config/node"
+  "extends": "@ribeiro-ui/eslint-config/node"
 }
 ```
