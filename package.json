@@ -1,12 +1,12 @@
 {
-  "name": "@ribeiro/eslint-config",
+  "name": "@ribeiro-ui/eslint-config",
   "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration used by Felipe Ribeiro.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "lfeliperibeiro/eslint-config-felipe-ribeiro"
+    "url": "https://github.com/lfeliperibeiro/eslint-config-felipe-ribeiro"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
